@@ -1,2 +1,1 @@
-## Branching, Merging, and Resolving Conflicts Task
-Modification in main branch.
+This line is from the FEATURE branch.
